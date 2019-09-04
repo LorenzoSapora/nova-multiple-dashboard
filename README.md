@@ -1,3 +1,8 @@
+# Deprecated
+
+This is now covered in Nova 2.1.0+ so does not need a package for it.
+
+See [documentation](https://nova.laravel.com/docs/2.0/customization/dashboards.html#overview)
 
 # Support for multiple custom dashboards in Laravel Nova
 
